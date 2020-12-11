@@ -1,11 +1,4 @@
 # X10ManagerDesktop
-X10ManagerDesktop and X10Manager (command line)
-
-Manage Schedules and their Events for X10 Controllers and Devices
-
-======================================================
-
-AAA_ReadMe_1st.txt
 
 Copyright (c) February 2006 trekkerphotoart.com
 
