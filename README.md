@@ -77,6 +77,7 @@ Notes:
 Licensing:
 
 Copyright (c) February 2006 trekkerphotoart.com
+
 This entire project (including and not limited to Documentation, Images, Executables, Libraries and Scripts) is Licensed under the "CREATIVE COMMONS PUBLIC LICENSE (CCPL)".
 The "CCPL" can be found in "X10ManagerDesktop Operations Manual", "Licensing" section.
 
