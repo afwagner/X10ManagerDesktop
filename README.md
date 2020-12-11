@@ -45,10 +45,12 @@ Notes:
 	- C:\X10ManagerDesktop_Installer
 	- C:\Program Files (x86)\trekkerphotoart.com\X10ManagerDesktop_Installer
 	- C:\X10Manager
+	
 	Note: An existing “C:\X10Manager” folder and its contents will be replaced.
 	
 2)	The "C:\Program Files (x86)\trekkerphotoart.com\X10ManagerDesktop_Installer" folder and its contents are also removed when a Repair or Remove Installation is performed.
 	A Repair Installation will re-create this folder and its contents.
+	
 	Note: Do not add or modify files in this location.
 	
 3)	When a Repair or Remove Installation is performed, the "C:\X10Manager" folder and its contents are removed.
