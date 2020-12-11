@@ -26,6 +26,7 @@ Specifications:
 -	Computer Interface:
 	- For each CP290 Controller: RS-232 Port (600 baud, 8 data bits, no parity, 1 stop bit)
 	- For each CM15A Controller: USB Port (1.1, 2, 3)
+	  
 	  Note: Connection through external USB expansion hub is not supported.
 
 ======================================================
