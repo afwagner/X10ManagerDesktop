@@ -13,7 +13,7 @@ X10ManagerDesktop and X10Manager (command line)
 Specifications:
 
 -	Operating System: Microsoft Windows 10 (32 bit or 64 bit)
--	.NET Version: 4.5 or later.
+
 -	"Adobe Reader" or "Adobe Acrobat" is needed to read file X10ManagerDesktop_OperationsManual.pdf which contains the "X10ManagerDesktop Operations Manual" document.
 	"Adobe Reader" or "Adobe Acrobat" can be found at:
 	
