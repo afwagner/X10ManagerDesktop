@@ -2,7 +2,7 @@
 
 Copyright (c) February 2006 trekkerphotoart.com
 
-Document Date: December 6, 2020
+Document Date: December 16, 2020
 
 Document Author: Alan Wagner
 
@@ -64,7 +64,7 @@ Notes:
 5)	X10Manager (command line) and the Access Database (X10Db.mdb) used by X10ManagerDesktop and X10Manager (command line) are typically located at "C:\X10Manager".
 
 6)	The Access Database "X10Db.mdb" must be in the same folder with "X10Manager.exe" and its program support files 
-	"X10Manager.exe.config, ParadoxReader.dll, X10Include.dll, X10IncludeUSB.dll".
+	"X10Manager.exe.config, ParadoxReader.dll, X10Include.dll, X10IncludeCM.dll".
 	
 7)	Detailed information about X10ManagerDesktop and X10Manager (command line) can be found in "X10ManagerDesktop Operations Manual".
 
