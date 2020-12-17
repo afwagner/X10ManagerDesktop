@@ -2,7 +2,7 @@
 
 Copyright (c) February 2006 trekkerphotoart.com
 
-Document Date: December 16, 2020
+Document Date: December 17, 2020
 
 Document Author: Alan Wagner
 
@@ -48,15 +48,19 @@ Notes:
 	- C:\Program Files (x86)\trekkerphotoart.com\X10ManagerDesktop_Installer
 	- C:\X10Manager
 	
-	Note: An existing “C:\X10Manager” folder and its contents will be replaced.
+	Note: Existing folders and their contents will be replaced.
 	
-2)	The "C:\Program Files (x86)\trekkerphotoart.com\X10ManagerDesktop_Installer" folder and its contents are also removed when a Repair or Remove Installation is performed.
-	A Repair Installation will re-create this folder and its contents.
+2)	"C:\Program Files (x86)\trekkerphotoart.com\X10ManagerDesktop_Installer" contains files needed for operation of X10ManagerDesktop.
+	- When a Repair or Remove Installation is performed, this folder and its contents are removed.
+	- A Repair Installation will re-create this folder and its contents.
 	
 	Note: Do not add or modify files in this location.
 	
-3)	When a Repair or Remove Installation is performed, the "C:\X10Manager" folder and its contents are removed.
-	With a Repair Installation, the core files and some support command scripts (.cmd) are re-created.
+3)	“C:\X10Manager” contains files needed for operation of both X10ManagerDesktop and X10Manager (command line).
+	- When a Repair or Remove Installation is performed, this folder, its subfolders and its contents are removed.
+	- With a Repair Installation, the core files and some support command scripts (.cmd) are re-created.
+	
+	Note: Before a Repair or Remove is performed, review "Preserve Files and X10 database" section in the "X10ManagerDesktop Operations Manual".
 	
 4)	Detailed information regarding Installation, Repairing the Installation, Removing the Installation,
 	and Preserving Command Script files and X10 Access database can be found in the "X10ManagerDesktop Operations Manual".
