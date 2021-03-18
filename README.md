@@ -1,12 +1,12 @@
 # X10ManagerDesktop
 
 Copyright (c) February 2006 trekkerphotoart.com
-
-Document Date: December 17, 2020
-
+Document Date: March 16, 2021
 Document Author: Alan Wagner
 
 X10ManagerDesktop and X10Manager (command line)
+
+Manage Schedules and their Events for X10 Controllers and Devices
 
 ======================================================
 
