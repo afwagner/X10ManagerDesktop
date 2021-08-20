@@ -2,7 +2,7 @@
 
 Copyright (c) February 2006 trekkerphotoart.com
 
-Document Date: April 13, 2021
+Document Date: August 3, 2021
 
 Document Author: Alan Wagner
 
