@@ -18,6 +18,7 @@ Project developed using:
 	- Microsoft .NET Framework Version 4.0.30319
 
 ======================================================
+
 Specifications:
 
 - Supported X10 Controllers:
@@ -30,7 +31,9 @@ Specifications:
 	- Windows Server 2019 (64 bit)
 	
 	Notes:
+		
 		1)	Microsoft .Net Framework Version 4.x is needed for X10Manager (command line).
+		
 		2)	X10 USB ActiveHome (ACPI-compliant) driver is needed for CM15A Controller.
 			The driver can be found in compressed zip archive “C:\X10Manager\X10_USBWindows_v6.0.0.210.zip”.
 			Usually Windows 8, 8.1 or 10 will plug-n-play the driver as a powered-up CM15A controller
@@ -39,7 +42,9 @@ Specifications:
 
 - "Adobe Reader" or "Adobe Acrobat" is needed to read file X10ManagerDesktop_OperationsManual.pdf which contains the "X10ManagerDesktop Operations Manual" document.
   "Adobe Reader" or "Adobe Acrobat" can be found at:
+  		
 		https://www.adobe.com/accessibility/products/reader.html
+		
 		https://get2.adobe.com/reader/ 
 
 - Computer Interface:
@@ -48,6 +53,7 @@ Specifications:
 	- For each CM15A Controller: USB Port (1.1, 2, 3)
 
 ======================================================
+
 1st Time Quick Start:
 
 1) Extract folder "X10ManagerDesktop_Installer" from X10ManagerDesktop_Installer_Release.zip to "C:\X10ManagerDesktop_Installer"
@@ -55,6 +61,7 @@ Specifications:
 3) Install X10ManagerDesktop_Installer.msi
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Quick Start Notes:
 
 	A) If already running an earlier version:
@@ -65,6 +72,7 @@ Quick Start Notes:
 	   regarding steps for database Backup and Restore.
 	
 ======================================================
+
 Notes:
 
 1)	A normal X10ManagerDesktop and X10Manager (command line) installation will create new folders in the following locations:
@@ -96,13 +104,17 @@ Notes:
 8)	Information regarding installation, setup and operation of X10 Controllers and X10 Modules is not covered in "X10ManagerDesktop Operations Manual".
 
 ======================================================
+
 Licensing:
+
 Copyright (c) February 2006 trekkerphotoart.com
 This entire project (including and not limited to Documentation, Images, Executables, Libraries and Scripts) is Licensed under the "CREATIVE COMMONS PUBLIC LICENSE (CCPL)".
 The "CCPL" can be found in "X10ManagerDesktop Operations Manual", "Licensing" section.
 
 ======================================================
+
 Credits:
+
 ParadoxReader.DLL (ParadoxReader) contains source code from, "Code Project", "Paradox database native .NET reader" by Petr Bříza, March 17, 2011, v1.2.
 Modifications have been added by Alan Wagner that allow ParadoxReader, as used in X10ManagerDesktop and X10Manager, to read X10 Lighthouse Scene BLOB data.
 Original ParadoxReader source code is Licensed under: "The Code Project Open License (CPOL) 1.02"
