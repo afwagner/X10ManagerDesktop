@@ -1,7 +1,9 @@
 # X10ManagerDesktop
 
 Copyright (c) February 2006 trekkerphotoart.com
+
 Document Date: February 11, 2023
+
 Document Author: Alan Wagner
 
 X10ManagerDesktop and X10Manager (command line)
