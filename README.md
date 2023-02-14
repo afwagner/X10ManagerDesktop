@@ -43,8 +43,6 @@ Specifications:
 - "Adobe Reader" or "Adobe Acrobat" is needed to read file X10ManagerDesktop_OperationsManual.pdf which contains the "X10ManagerDesktop Operations Manual" document.
   "Adobe Reader" or "Adobe Acrobat" can be found at:
   		
-		https://www.adobe.com/accessibility/products/reader.html
-		
 		https://get2.adobe.com/reader/ 
 
 - Computer Interface:
